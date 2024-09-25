@@ -1,12 +1,12 @@
 {
-  "name": "LaxzyMods",
+  "name": "Shani",
   "version": "1.0.7",
-  "description": "LaxzyMods",
+  "description": "Shani",
   "main": "index.js",
   "scripts": {
     "start": "node index"
   },
-  "author": "LaxzyMods",
+  "author": "Shani",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
